@@ -68,16 +68,6 @@ I'm an Information Technology undergraduate at **Vidyalankar Institute of Techno
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhushanAvhad&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhushanAvhad&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhushanAvhad&theme=tokyonight" />
-
-</div>
 
 ---
 
@@ -102,5 +92,12 @@ I'm always interested in discussing technology, collaborating on projects and ex
 <a href="https://www.linkedin.com/in/bhushan-avhad-948abb315">LinkedIn</a>
 
 ### 💻 Code. Build. Learn. Repeat.
+
+</div>
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=150&section=footer&text=Code.%20Build.%20Learn.%20Repeat.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Animated developer footer" />
 
 </div>
