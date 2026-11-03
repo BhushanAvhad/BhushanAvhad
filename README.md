@@ -73,14 +73,27 @@ I'm an Information Technology undergraduate at **Vidyalankar Institute of Techno
 
 
 
-## 📈 Contribution Activity
+---
+
+## ⚡ Developer Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhushanAvhad&theme=tokyo-night&hide_border=true&area=true" />
+<a href="https://github.com/BhushanAvhad?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/BhushanAvhad?tab=stars">
+<img src="https://img.shields.io/badge/My-Stars-FFD700?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/BhushanAvhad">
+<img src="https://img.shields.io/badge/Follow-My%20Journey-2563EB?style=for-the-badge&logo=github" />
+</a>
+
+### 💻 Always learning. Always building.
+
+*Every commit is a step forward.*
 
 </div>
----
 
 ## 🤝 Let's Connect
 
