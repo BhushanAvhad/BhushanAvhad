@@ -72,24 +72,24 @@ I'm an Information Technology undergraduate at **Vidyalankar Institute of Techno
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BhushanAvhad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhushanAvhad&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanAvhad&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=BhushanAvhad&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhushanAvhad&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhushanAvhad&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BhushanAvhad/BhushanAvhad/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhushanAvhad&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
